@@ -166,7 +166,7 @@ html {
     padding-top: 50%;
     color: white;
     position: relative;
-    background: url('/assets/img/slider/chicago.jpg') no-repeat center center; /* Hình nền cho slider */
+    background: url('./assets/img/slider/chicago.jpg') no-repeat center center; /* Hình nền cho slider */
     background-size: cover; /* Đảm bảo hình nền phủ kín */
 }
 
